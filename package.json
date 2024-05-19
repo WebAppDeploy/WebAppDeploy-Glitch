@@ -1,0 +1,17 @@
+{
+  "name": "webappdeploy-glitch",
+  "version": "1.0.0",
+  "description": "Deploy on glitch",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "simple-git": "^2.46.0",
+    "path": "^0.12.7",
+    "fs-extra": "^10.0.0"
+  },
+  "author": "Connor33341",
+  "license": "ISC"
+}
